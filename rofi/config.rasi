@@ -1,0 +1,6 @@
+configuration {
+ modi: "window,drun,ssh,combi,run";
+ theme: "Monokai";
+ font: "hack 16";
+ combi-modi: "window,drun,ssh";
+ }
